@@ -1,3 +1,4 @@
+want the pseudo code for 
 /*
 A browser stores visited pages in a Stack.
 
@@ -11,7 +12,12 @@ Concepts Tested:
 Stack
 push()
 pop()
-peek()Push the following websites into the Stack:
+peek()
+
+Instructions-
+Create a Stack called browserHistory
+
+Push the following websites into the Stack:
     google.com
     youtube.com
     github.com
@@ -36,8 +42,5 @@ Get the current page using peek()
 Store it in currentPage
 
 Display currentPage
-
-
-Instructions - 
 
 */
