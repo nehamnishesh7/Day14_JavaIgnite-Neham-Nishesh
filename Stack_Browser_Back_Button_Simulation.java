@@ -11,5 +11,33 @@ Concepts Tested:
 Stack
 push()
 pop()
-peek()
+peek()Push the following websites into the Stack:
+    google.com
+    youtube.com
+    github.com
+    wikipedia.org
+    stackoverflow.com
+
+Display all visited websites
+
+Print "Pressing Back Button..."
+
+Remove the top website from the Stack
+Store it in removedPage1
+
+Remove the next top website from the Stack
+Store it in removedPage2
+
+Display removedPage1
+
+Display removedPage2
+
+Get the current page using peek()
+Store it in currentPage
+
+Display currentPage
+
+
+Instructions - 
+
 */
