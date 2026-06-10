@@ -15,4 +15,22 @@ add()
 size()
 Duplicate removal behavior
 
+Instructions - 
+Create a HashSet called participants
+
+Add participant names:
+    Arun
+    Priya
+    Ravi
+    Meena
+    Karthik
+    Priya      (Duplicate)
+    Ravi       (Duplicate)
+    Divya
+    Arun       (Duplicate)
+
+Display all registered participants
+
+Display the total number of participants
+
 */
