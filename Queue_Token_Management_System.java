@@ -14,4 +14,23 @@ Queue
 offer()
 poll()
 peek()
+
+Instructions - 
+Create a Queue called patientQueue
+
+Add the following patients into the queue:
+    Arun
+    Priya
+    Ravi
+    Meena
+    Karthik
+
+Display all patients waiting in the queue
+
+Serve the first patient
+Store the served patient in servedPatient
+
+Display the served patient
+
+Display the remaining patients in the queue
 */
